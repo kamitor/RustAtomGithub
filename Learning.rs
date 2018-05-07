@@ -1,5 +1,5 @@
 fn main () {
 
-    println!("hello everyone!");
-    println!("i got atom working with github and rust!")
+
+    println!("Hello everyone, is this working?")
 }
