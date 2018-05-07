@@ -1,0 +1,2 @@
+# RustAtomGithub
+Learning rust
